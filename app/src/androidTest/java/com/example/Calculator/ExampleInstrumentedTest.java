@@ -1,4 +1,4 @@
-package com.example.polina;
+package com.example.Calculator;
 
 import android.content.Context;
 
